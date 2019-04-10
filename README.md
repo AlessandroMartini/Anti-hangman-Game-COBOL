@@ -2,11 +2,11 @@
 Only to remember
 
 
-If you want to try access:
+If you want to try, access:
 https://www.jdoodle.com/execute-cobol-online
 
 Copy and paste the code ont it.
 
-And click <Execute>.
+And click *Execute*
 
 # Enjoy!
